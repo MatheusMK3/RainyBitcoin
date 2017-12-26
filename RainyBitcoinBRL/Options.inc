@@ -1,6 +1,6 @@
 [Variables]
 DynamicVariables=1
-@include="#SKINSPATH#\RainyBitcoin\Variables.inc"
+@include="#SKINSPATH#\RainyBitcoinBRL\Variables.inc"
 
 ;-- Color of Bitcoin Icon
 ;   Options: Orange, Black, White

@@ -1,15 +1,16 @@
-RainyBitcoin
-============
+RainyBitcoinBRL
+===============
 
-BTC Ticker and historical line graph for Rainmeter. Currently supports MtGox and Bitstamp.
+Gráfico de Bitcoin baseado no RainyBitcoin para Rainmeter. Exibe dados do Mercado Bitcoin e Bitstamp.
 
-### Installation
-- Copy RainyBitcoin dir to your Rainmeter skins folder. (C:\Users\Your Username\My Documents\Rainmeter\Skins)
-- Edit Options.inc to your liking
-- Enjoy your frontrow seat to panic selling tactics.
+### Instalação
+- Copie a pasta RainyBitcoinBRL para sua pasta de skins do Rainmeter. (C:\Users\Usuário\Documentos\Rainmeter\Skins)
+- Edite o arquivo Options.inc ao seu gosto
+- ???
+- Profit.
 
 
-### Preview Screenshots
+### Screenshots (RainyBitcoin original, mas whatever)
 #### Basic
 ![Basic Ticker](Preview/basic_ticker.png)
 
